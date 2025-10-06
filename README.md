@@ -6,8 +6,8 @@ This repository contains step-by-step examples of data cleaning, transformation,
 ---
 
 ## 📂 Repository Structure
+``` bash
 data-analysis-notebooks/
-│
 ├── CSV_Files/ # Sample datasets
 ├── Images/ # Supporting images
 │
@@ -18,7 +18,7 @@ data-analysis-notebooks/
 ├── 05Value_Count.ipynb # Value counts in datasets
 ├── 06Boxplot_Scatterplot.ipynb # Boxplot & scatterplot visualization
 
-
+```
 ---
 
 ## 🚀 Getting Started
